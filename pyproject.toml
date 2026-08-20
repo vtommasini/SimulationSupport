@@ -19,6 +19,8 @@ dependencies = [
     "pandas",
     "sxs",
     "varpro @ git+https://github.com/sxs-collaboration/varpro.git@978106eaf3d7a6a7f0c5f167726d8e0fc59fc95d",
+    "click",
+    "rich",
 ]
 
 [project.optional-dependencies]
